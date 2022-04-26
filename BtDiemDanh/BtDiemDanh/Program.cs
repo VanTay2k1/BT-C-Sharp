@@ -8,10 +8,10 @@ namespace BtDiemDanh
 {
     class Program
     {
-            public class Animal
+            public class Animal_150
             {
 
-                public void Eat()
+                public void Eat_150()
                 {
                     Console.WriteLine("đang ăn. . .");
                 }
@@ -20,16 +20,16 @@ namespace BtDiemDanh
                     Console.WriteLine("đang phát ra tiếng kêu.");
                 }
             }
-            class Cat : Animal
+            class Cat_150 : Animal_150
             {
-                public void Run()
+                public void Run_150()
                 {
                     Console.WriteLine("Mèo đang chạy trên đường.");
                 }
-                Animal animal = new Animal();
+                Animal_150 animal = new Animal_150();
 
             }
-            class Bird : Animal
+            class Bird : Animal_150
             {
                 public void Fly()
                 {
@@ -40,9 +40,9 @@ namespace BtDiemDanh
             static void Main(string[] args)
             {
                 Console.OutputEncoding = Encoding.UTF8;
-                Cat cat = new Cat();
-                cat.Run();
-                cat.Run();
+                Cat_150 cat = new Cat_150();
+                cat.Run_150();
+                cat.Run_150();
                 Bird bird = new Bird();
                 bird.Fly();
                 bird.MakeSound();
