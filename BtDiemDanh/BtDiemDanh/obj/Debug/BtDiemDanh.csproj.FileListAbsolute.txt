@@ -1,0 +1,7 @@
+D:\BT-C-Sharp\BtDiemDanh\BtDiemDanh\bin\Debug\BtDiemDanh.exe.config
+D:\BT-C-Sharp\BtDiemDanh\BtDiemDanh\bin\Debug\BtDiemDanh.exe
+D:\BT-C-Sharp\BtDiemDanh\BtDiemDanh\bin\Debug\BtDiemDanh.pdb
+D:\BT-C-Sharp\BtDiemDanh\BtDiemDanh\obj\Debug\BtDiemDanh.csproj.AssemblyReference.cache
+D:\BT-C-Sharp\BtDiemDanh\BtDiemDanh\obj\Debug\BtDiemDanh.csproj.CoreCompileInputs.cache
+D:\BT-C-Sharp\BtDiemDanh\BtDiemDanh\obj\Debug\BtDiemDanh.exe
+D:\BT-C-Sharp\BtDiemDanh\BtDiemDanh\obj\Debug\BtDiemDanh.pdb
