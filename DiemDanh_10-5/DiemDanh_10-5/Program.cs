@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiemDanh_10-5
+namespace DiemDanh_10_5
 {
     class Program
     {
